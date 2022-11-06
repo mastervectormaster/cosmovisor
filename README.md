@@ -1,0 +1,1 @@
+Cosmovisor for Blockx testnet
