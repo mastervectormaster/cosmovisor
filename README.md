@@ -18,3 +18,5 @@ ONLY Blockx testnet developers
 1. Run **cosmovisor.sh** to start initial version of the daemon
 2. Run **proposal.sh** to submit a upgrade proposal
 3. Run **vote.sh** to put a vote to make the proposal accepted.
+
+https://drive.google.com/drive/folders/1rVpB-WhfLlCdlG6EhBTkkVqaI_sNSJou?usp=share_link
