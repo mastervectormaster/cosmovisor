@@ -19,5 +19,9 @@ ONLY Blockx testnet developers
 2. Run **proposal.sh** to submit a upgrade proposal
 3. Run **vote.sh** to put a vote to make the proposal accepted.
 
+https://drive.google.com/file/d/1Bbe9JWuHNzVrkPEMazPW1YhLcg5ZqSVB/view?usp=sharing
+
 https://github.com/sdcuike/Clean-Code-Collection-Books
+
 https://github.com/GunterMueller/Books-3
+
