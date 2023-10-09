@@ -8,3 +8,5 @@ BLOCKXD_CONFIG_DIR=$HOME/.blockxd
 REPO_DIR="bcx-testnet7-chain"
 
 $BLOCKXD_EXECUTABLE_NAME tx gov vote 1 "yes" --from $KEY --keyring-backend $KEYRING --chain-id $CHAINID --fees 30000abcx -y
+
+###  This is test commit
