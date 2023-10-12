@@ -26,3 +26,5 @@ ONLY Blockx testnet developers
 [Django](https://drive.google.com/file/d/1664VHU7rpxaEeEslrfnj-fx9BYbKT2Zb/view?usp=sharing)
 
 [MySQL](https://drive.google.com/file/d/1Sb1gG6uEtlpCWofDgiTtMxoW_Kk80wFi/view?usp=drive_link)
+
+[Developer Roadmaps](https://drive.google.com/file/d/1iPaZlyJRbQW5Vmtq6a0a5EnmVkzLk150/view?usp=sharing)
