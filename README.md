@@ -29,6 +29,8 @@ ONLY Blockx testnet developers
 
 [Developer Roadmaps](https://drive.google.com/file/d/1iPaZlyJRbQW5Vmtq6a0a5EnmVkzLk150/view?usp=sharing)
 
+[React](https://drive.google.com/file/d/12xvh20s2-iz4XtLlfszPc93nmKb22-N0/view?usp=drive_link)
+
 [React Native](https://drive.google.com/file/d/1BuriQQvoXh4Xjo3U7iZf_t7EQaonB3d4/view?usp=sharing)
 
 [CSS](https://drive.google.com/file/d/1pgtEV1VImNfO0x03zZe-5URohjVce2NJ/view?usp=sharing)
