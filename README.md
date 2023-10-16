@@ -28,3 +28,9 @@ ONLY Blockx testnet developers
 [MySQL](https://drive.google.com/file/d/1Sb1gG6uEtlpCWofDgiTtMxoW_Kk80wFi/view?usp=drive_link)
 
 [Developer Roadmaps](https://drive.google.com/file/d/1iPaZlyJRbQW5Vmtq6a0a5EnmVkzLk150/view?usp=sharing)
+
+[React Native](https://drive.google.com/file/d/1BuriQQvoXh4Xjo3U7iZf_t7EQaonB3d4/view?usp=sharing)
+
+[CSS](https://drive.google.com/file/d/1pgtEV1VImNfO0x03zZe-5URohjVce2NJ/view?usp=sharing)
+
+[Node.js](https://drive.google.com/file/d/1EyUSFNTAp_r0dbSN4fnfYy6EoI0A9Le5/view?usp=drive_link)
