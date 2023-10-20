@@ -36,3 +36,5 @@ ONLY Blockx testnet developers
 [CSS](https://drive.google.com/file/d/1pgtEV1VImNfO0x03zZe-5URohjVce2NJ/view?usp=sharing)
 
 [Node.js](https://drive.google.com/file/d/1EyUSFNTAp_r0dbSN4fnfYy6EoI0A9Le5/view?usp=drive_link)
+
+[Thesis] (https://drive.google.com/file/d/1L5x9OvUcBeG6J9hwCNUOeWqPHAtOY9De/view?usp=sharing)
