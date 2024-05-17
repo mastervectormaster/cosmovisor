@@ -19,22 +19,3 @@ ONLY Blockx testnet developers
 2. Run **proposal.sh** to submit a upgrade proposal
 3. Run **vote.sh** to put a vote to make the proposal accepted.
 
-[Discord](https://drive.google.com/file/d/1fvxpb6hhj_09_un40hnP6AeGn1oIib-c/view?usp=sharing)
-
-[Upwork](https://drive.google.com/file/d/1Vi5WnrifzBOVfqGQkTG2AQUxz4pXjTUe/view?usp=sharing)
-
-[Django](https://drive.google.com/file/d/1664VHU7rpxaEeEslrfnj-fx9BYbKT2Zb/view?usp=sharing)
-
-[MySQL](https://drive.google.com/drive/folders/1C8T4Nc97f1MMXPbgND8BsQAyKeEMYgKO?usp=drive_link)
-
-[Developer Roadmaps](https://drive.google.com/file/d/1iPaZlyJRbQW5Vmtq6a0a5EnmVkzLk150/view?usp=sharing)
-
-[React (in chunks)](https://drive.google.com/drive/folders/1EwHefRJASqwp1vZQmisUMBnF824RZ9iy)
-
-[React Native](https://drive.google.com/file/d/1BuriQQvoXh4Xjo3U7iZf_t7EQaonB3d4/view?usp=sharing)
-
-[CSS](https://drive.google.com/file/d/1pgtEV1VImNfO0x03zZe-5URohjVce2NJ/view?usp=sharing)
-
-[Node.js](https://drive.google.com/file/d/1EyUSFNTAp_r0dbSN4fnfYy6EoI0A9Le5/view?usp=drive_link)
-
-[Thesis] (https://drive.google.com/file/d/1L5x9OvUcBeG6J9hwCNUOeWqPHAtOY9De/view?usp=sharing)
